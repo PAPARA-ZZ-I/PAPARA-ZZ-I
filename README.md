@@ -9,7 +9,9 @@ PAPARA(ZZ)I was originally developped analyse large amounts of deep-sea photogra
 INSTALLATION:
 ------------
 There are two ways to run the program:
-1. with MATLAB, by running the PAPARAZZI.m from the MATLAB command window
+
+1. with MATLAB, by running the PAPARAZZI.m from the MATLAB command window.
+
 2. without MATLAB, by using the PAPARA(ZZ)I installer (available for Windows 64-bits only) and following the instructions.
 
 
@@ -32,4 +34,5 @@ You should have received a copy of the GNU General Public License along with PAP
 CONTACT:
 -------
 Yann Marcon: yann.marcon@awi.de
+
 Autun Purser: autun.purser@awi.de
