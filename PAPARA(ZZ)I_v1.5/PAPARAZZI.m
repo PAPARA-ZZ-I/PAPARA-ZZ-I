@@ -85,8 +85,9 @@ if isdeployed
 %     end
     
 else
-    mPath = fileparts(mfilename('fullpath')); % path to folder where ImageAnnotator.m is located
-    WoRMSpath = [mPath sep 'WoRMS' sep];
+    mPath = fileparts(mfilename('fullpath')); % path to folder where PAPARAZZI.m is located
+    % WoRMSpath = [mPath sep 'WoRMS' sep];
+    WoRMSpath = [mPath sep];
     addpath(WoRMSpath);
     WoRMSfile = [WoRMSpath 'aphia.php'];
 end
@@ -127,20 +128,6 @@ TaxoRanking = {'Kingdom';'Subkingdom';'Phylum';'Subphylum';...
 % sets figure size
 sel = 1; % id of primary monitor
 scrsz = get(0,'MonitorPositions'); % gets screens dimensions and positions
-if size(scrsz,1) > 1 % multiheaded system
-    strlist = {};
-    for k=1:size(scrsz,1)
-        scr_w = scrsz(k,3) - ( scrsz(k,1) - 1 ); % width of current monitor
-        scr_h = scrsz(k,4) - ( scrsz(k,2) - 1 ); % height of current monitor
-        str = sprintf('Monitor %i: %li x %li',k,scr_w,scr_h);
-        strlist = [ strlist ; {str} ];
-    end
-    [sel,ok] = listdlg('Name','Multiple monitors','PromptString',...
-        'Select monitor:','SelectionMode','single',...
-        'ListString',strlist,'ListSize',[200 100]);
-    drawnow; pause(0.1); % prevents dialog box from freezing
-    if ok == 0, clearvars; return; end
-end
 x = scrsz(sel,1); % 1 = left pixel of the primary screen
 y = scrsz(sel,2); % 1 = top pixel of the primary monitor (increases downwards)
 scr_w = scrsz(sel,3) - (x-1); % width of selected monitor
