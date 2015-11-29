@@ -119,7 +119,7 @@ if ~isempty(x)
             
             if ~isnan(measx1(k))
                 plot(gca,measx1(k),measy1(k),'o','Color','c',...
-                    'MarkerFaceColor','c','MarkerSize',4);
+                    'MarkerFaceColor','c','MarkerSize',4,'UserData',[x(k),y(k)]);
                 plot(h,[measx1(k) measx2(k)],[measy1(k) measy2(k)],'-',...
                     'Color','c','Tag','MeasurementLine','UserData',[x(k),y(k)]);
             end

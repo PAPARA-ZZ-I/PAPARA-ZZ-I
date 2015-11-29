@@ -88,6 +88,7 @@ switch mousestate
             % DELETE THE POINT ON THE GRAPH
             set(infotxt,'String','');
             delete(h_gcbo); % deletes the link from the figure
+            delete(findobj(gca,'UserData',[x y]));
             
         end
         

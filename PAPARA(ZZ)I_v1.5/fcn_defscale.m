@@ -29,6 +29,7 @@ switch aflag
     case 'scale1'
         % Disable all buttons and toolbars
         fcn_freeze_fig('off',gcf,'Button-containing panel');
+        fcn_freeze_ZoomPan('on',gcf);
         
         % Delete any existing scale bar
         delete(findobj(h,'Tag','scalebar'));

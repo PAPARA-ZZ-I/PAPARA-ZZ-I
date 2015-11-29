@@ -53,6 +53,7 @@ switch aflag
         
         % Disable all buttons and toolbars
         fcn_freeze_fig('off',gcf,'Button-containing panel');
+        fcn_freeze_ZoomPan('on',gcf);
         
         
         % DELETE THE DATA FROM THE TEXT FILE
@@ -103,7 +104,7 @@ switch aflag
         % Draw the point on the graph
         % plot(gca,CP(1,1),CP(1,2),'+','Color','c','Tag','measurement_point');
         plot(gca,CP(1,1),CP(1,2),'o','Color','c','MarkerFaceColor','c',...
-            'MarkerSize',4);
+            'MarkerSize',4,'UserData',[x,y]);
         
         % Update info text
         infostr = get(infotxt,'String');
