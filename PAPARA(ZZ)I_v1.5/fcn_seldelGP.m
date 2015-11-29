@@ -74,7 +74,7 @@ switch mousestate
         if strcmpi(get(hGP(1),'Selected'),'on') == 1
 
             % CHANGE ANNOTATION BACK TO 'EMPTY'
-            fid = fcn_change_annotation(fid,hGP(1),'empty');
+            fid = fcn_change_annotation(fid,hGP(1),'empty',1);
             
             % update callback
             fcn_update_cbfun(hGP,'empty');
@@ -83,6 +83,11 @@ switch mousestate
             set(infotxt,'String','');
             set(hGP(1),'Selected','off','Color','w');
             if length(hGP) > 1, set(hGP(2:end),'Visible','on'); end
+            
+            % delete size measurement
+            x = get(h_gcbo,'XData');
+            y = get(h_gcbo,'YData');
+            delete(findobj(gca,'UserData',[x y]));
             
         end
         

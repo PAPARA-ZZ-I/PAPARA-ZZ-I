@@ -1,4 +1,4 @@
-function fid = fcn_change_annotation(fid,h,selstr)
+function fid = fcn_change_annotation(fid,h,selstr,szdel)
 %% Copyright 2015 Yann Marcon and Autun Purser
 
 % This file is part of PAPARA(ZZ)I.
@@ -25,6 +25,9 @@ function fid = fcn_change_annotation(fid,h,selstr)
 
 
 %%
+if exist('szdel','var')~=1, szdel = 0; end
+% if szdel~0, then any size measurement associated with the annotation is deleted
+
 
 % CHANGE ANNOTATION IN TEXT FILE
 txtfile = fopen(fid); % get filename
@@ -46,7 +49,7 @@ idC = strfind(CStr, XYstr);
 id = find(~cellfun('isempty',idC), 1);
 if ~isempty(id)
     v = textscan(CStr{id},'%f%f%s%f%f%f%f','Delimiter','\t'); % the last 4 variables may not exist
-    if ~isempty(v{4}) && ~isempty(v{5}) && ~isempty(v{6}) && ~isempty(v{7})
+    if ~isempty(v{4}) && ~isempty(v{5}) && ~isempty(v{6}) && ~isempty(v{7}) && szdel==0
         CStr{id} = sprintf('%f\t%f\t%s\t%f\t%f\t%f\t%f',x,y,selstr,v{4},v{5},v{6},v{7});
     else
         CStr{id} = sprintf('%f\t%f\t%s',x,y,selstr);
