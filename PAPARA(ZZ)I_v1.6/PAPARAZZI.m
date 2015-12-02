@@ -114,7 +114,7 @@ first_match = 1; % index of the first result to search for in the WoRMS database
 filterlist = []; % empty filter
 cversion = '1.6'; % current version
 cdate = 'December 2015'; % current date
-helpfile = [ 'PAPARA(ZZ)I_' , cversion , '_UserManual.pdf' ];
+helpfile = [ 'PAPARAZZI_' , cversion , '_UserManual.pdf' ];
 signaturestr = 'PAPARA(ZZ)I team:   Yann Marcon (development) & Autun Purser (design)';
 paparazzistr = ['Program for Annotation of Photographs And Rapid ',...
     'Analysis (of Zillions and Zillions) of Images'];
