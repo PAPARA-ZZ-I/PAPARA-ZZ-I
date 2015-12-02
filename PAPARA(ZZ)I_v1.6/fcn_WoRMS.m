@@ -1,4 +1,4 @@
-function fcn_WoRMS(objWoRMS,GUIsize)
+function fcn_WoRMS(objWoRMS,GUIsize,ButtonColor)
 %% Copyright 2015 Yann Marcon and Autun Purser
 
 % This file is part of PAPARA(ZZ)I.

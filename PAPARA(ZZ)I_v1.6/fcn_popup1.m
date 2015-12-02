@@ -1,4 +1,4 @@
-function [kwlist,WoRMSlist,WoRMSrecords] = fcn_popup1(hpop,hbutton,hlist,objWoRMS,kwlist,WoRMSlist,WoRMSrecords,first_match)
+function [kwlist,WoRMSlist,WoRMSrecords] = fcn_popup1(hpop,hbutton,hlist,objWoRMS,kwlist,WoRMSlist,WoRMSrecords,first_match,ButtonColor)
 %% Copyright 2015 Yann Marcon and Autun Purser
 
 % This file is part of PAPARA(ZZ)I.
@@ -57,7 +57,9 @@ switch selstr
                 'Children from AphiaID','is in full','All taxa',[],[],first_match);
         end
         
-        set(hbutton,'Callback','fcn_WoRMS(objWoRMS,GUIsize);');
+        if exist('ButtonColor','var')~=1, ButtonColor = [.83 .89 .96]; end
+        
+        set(hbutton,'Callback','fcn_WoRMS(objWoRMS,GUIsize,ButtonColor);');
         set(hbutton,'String','WoRMS Taxon search');
         set(hlist,'Position',[0 .2 1 .671]);
         set(ButWoRMS,'Enable','on');
