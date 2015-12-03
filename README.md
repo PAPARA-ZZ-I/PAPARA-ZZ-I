@@ -12,7 +12,7 @@ There are two ways to run the program:
 
 1. with MATLAB, by running the PAPARAZZI.m from the MATLAB command window.
 
-2. without MATLAB, by using the PAPARA(ZZ)I installer (available for Windows 64-bits only) and following the instructions.
+2. without MATLAB, by using the PAPARA(ZZ)I installer (available for 64-bit Windows, Mac OS X and Linux systems) and following the instructions.
 
 Although PAPARA(ZZ)I was developped under MATLAB 2015b, it also works with older versions (e.g. MATLAB 2010a).
 
