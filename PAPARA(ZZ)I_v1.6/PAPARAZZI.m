@@ -60,6 +60,21 @@ if isdeployed
     % Path to WoRMS 'aphia.xml' file
     WoRMSfile = 'aphia.php';
     
+    % Create the WoRMS class in current folder
+    % (I know changing the current folder is bad practice but i did not
+    % find a better solution to prevent the Aphia Name Service folder from
+    % being created wherever the current folder is. Although, there were
+    % permissions issues when deploying in Linux, which are now solved. The
+    % new 'matlab.wsdl.createWSDLClient' command present in MATLAB 2015b
+    % could solve this issue more elegantly but it does not work in older
+    % MATLAB versions and it needs additional dependencies to be installed
+    % separately, which makes the whole deployed program less of a turnkey
+    % product for the non computer-oriented users).
+    currentfolder = pwd;
+    cd(ctfroot); % change current folder 
+    createClassFromWsdl(WoRMSfile);
+    cd(currentfolder); % change current folder back
+    
     
 %     % Get path of the exe file where the WoRMS libraries are:
 %     [status, result] = system('set PATH');
@@ -90,10 +105,9 @@ else
     WoRMSpath = [mPath sep];
     addpath(WoRMSpath);
     WoRMSfile = [WoRMSpath 'aphia.php'];
+    
+    createClassFromWsdl(WoRMSfile);
 end
-
-% Create the WoRMS class
-createClassFromWsdl(WoRMSfile);
 
 % Create a WoRMS object from the WoRMS class
 objWoRMS = AphiaNameService;
