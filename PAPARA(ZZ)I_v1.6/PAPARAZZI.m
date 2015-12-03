@@ -45,9 +45,6 @@ warning off all;
 % Add to path
 if isdeployed
     
-    % Path of the deployed code
-    deployedPath = fullfile(ctfroot);
-    
     % path of deployed code with subfolders
     pathsToAdd = {genpath(fullfile(ctfroot))};
     try
@@ -82,7 +79,7 @@ if isdeployed
 %
 %     % Copy the WoRMS libraries to the deployed path
 %     sourcefolder = [exePath sep 'WoRMS'];
-%     destinationfolder = [deployedPath sep 'WoRMS'];
+%     destinationfolder = [ctfroot sep 'WoRMS'];
 %     if exist(sourcefolder,'folder')==7 && ...
 %             exist(destinationfolder,'folder')~=7
 %         % if source folder exists and destination folder does not exist
@@ -324,12 +321,18 @@ cbExport = horzcat('switch get(hPoints,''State''), ',...
 % opening a pdf file is different depending on the OS
 if ispc || ismac
     helpcmd = 'open(helpfile);';
-elseif isunix
-    % helpcmd = ['system([''evince ' helpfile ' &]);'];
-    helpcmd = ['msgbox(''Open ' helpfile ' in the operating system'',',...
-        '''Product Help'',''modal'');'];
+% elseif isunix
+%     helpcmd = ['system([''evince ' helpfile ' &]);'];
 else
-    helpcmd = ['msgbox(''Open ' helpfile ' in the operating system'',',...
+    if isdeployed
+        tmpPath = [ ctfroot sep ];
+    else
+        tmpPath = [ mPath sep ];
+    end
+    helpcmd = ['msgbox(sprintf(''The help file cannot be opened ',...
+        'automatically with this operating system.\n\n',...
+        'Please open the following file manually: %s\n\n',...
+        'The help file is located in:\n%s'',helpfile,tmpPath),',...
         '''Product Help'',''modal'');'];
 end
 
