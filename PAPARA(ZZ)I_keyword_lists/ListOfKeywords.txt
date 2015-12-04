@@ -1,0 +1,16 @@
+_TAXA_
+Asteroidea
+Crinoidea (non-stalked)
+Crinoidea (stalked)
+Crustacea
+Cephalopoda
+Holothuroidea
+Ophiuroidea
+Osteichthyes
+Porifera
+
+_OTHER_
+Nodule
+Burrow
+Litter
+Indeterminable
