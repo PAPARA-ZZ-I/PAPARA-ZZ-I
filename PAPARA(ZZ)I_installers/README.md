@@ -5,7 +5,10 @@ This directory contains the executable files necessary to run PAPARA(ZZ)I on a 6
 - 'MCR' package files include both PAPARA(ZZ)I and the MATLAB Runtime (use this option if an Internet connection is not available).
 
 
+
 IMPORTANT:
+
 Due to the large size of the files, the MCR installers (i.e. the ones with MATLAB Runtime included) are not stored on GitHub. However, they can be downloaded from here:
+
 https://drive.google.com/folderview?id=0Bx4WDwQbEgZBTlR3ZEhtMHBYRnc&usp=sharing
 
