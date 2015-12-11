@@ -3,3 +3,10 @@ This directory contains the executable files necessary to run PAPARA(ZZ)I on a 6
 - 'WEB' package files install PAPARA(ZZ)I and download the MATLAB Runtime from the Internet (if not already installed).
 
 - 'MCR' package files include both PAPARA(ZZ)I and the MATLAB Runtime (use this option if an Internet connection is not available).
+
+
+IMPORTANT:
+
+Due to the large size of the files, the MCR installers (i.e. the ones with MATLAB Runtime included) can be downloaded from here:
+https://drive.google.com/folderview?id=0Bx4WDwQbEgZBTlR3ZEhtMHBYRnc&usp=sharing
+
