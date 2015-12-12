@@ -1,0 +1,835 @@
+***********************************
+_BIOTIC COMPONENTS_
+***********************************
+
+Planktonic Biota > Zooplankton > Crustacean Holoplankton > Amphipod Aggregation > Hyperia Aggregation
+Planktonic Biota > Zooplankton > Crustacean Holoplankton > Amphipod Aggregation > Caprellid Aggregation
+
+Planktonic Biota > Zooplankton > Crustacean Holoplankton > Copepod Aggregation > Acartia Aggregation
+Planktonic Biota > Zooplankton > Crustacean Holoplankton > Copepod Aggregation > Calanus Aggregation
+
+Planktonic Biota > Zooplankton > Crustacean Holoplankton > Krill Aggregation > Euphausia Aggregation
+Planktonic Biota > Zooplankton > Crustacean Holoplankton > Krill Aggregation > Thysanoessa Aggregation
+
+Planktonic Biota > Zooplankton > Crustacean Meroplankton > Decapod Larval Aggregation > Brachyuran Crab Larval Aggregation
+Planktonic Biota > Zooplankton > Crustacean Meroplankton > Decapod Larval Aggregation > Anomuran Crab Larval Aggregation
+Planktonic Biota > Zooplankton > Crustacean Meroplankton > Decapod Larval Aggregation > Pandalus Larval Aggregation
+
+Planktonic Biota > Zooplankton > Crustacean Meroplankton > Mixed Crustacean Larvae
+
+Planktonic Biota > Zooplankton > Coral Meroplankton > Coral Spawning and Larval Aggregation > Acroporid Spawning Aggregation
+Planktonic Biota > Zooplankton > Coral Meroplankton > Coral Spawning and Larval Aggregation > Montastraea Spawning Aggregation
+
+Planktonic Biota > Zooplankton > Coral Meroplankton > Coral Larval Aggregation > Acroporid Larval Aggregation
+Planktonic Biota > Zooplankton > Coral Meroplankton > Coral Larval Aggregation > Monstastraea Larval Aggregation
+
+Planktonic Biota > Zooplankton > Echinoderm Meroplankton > Mixed Echinoderm Larval Aggregation > Ophiuroid Larval Aggregation
+Planktonic Biota > Zooplankton > Echinoderm Meroplankton > Mixed Echinoderm Larval Aggregation > Asteroidean Larval Aggregation
+Planktonic Biota > Zooplankton > Echinoderm Meroplankton > Mixed Echinoderm Larval Aggregation > Holothurian Larval Aggregation 
+
+Planktonic Biota > Zooplankton > Fish Meroplankton > Fish Spawning and Larval Aggregation > Damselfish Spawing and Larval Aggregation
+Planktonic Biota > Zooplankton > Fish Meroplankton > Fish Spawning and Larval Aggregation > Grouper Spawning and Larval Aggregation
+Planktonic Biota > Zooplankton > Fish Meroplankton > Fish Spawning and Larval Aggregation > Surgeonfish Spawning and Larval Aggregation
+
+Planktonic Biota > Zooplankton > Fish Meroplankton > Fish Larval Aggregation > Clupeid Larval Aggregation 
+Planktonic Biota > Zooplankton > Fish Meroplankton > Fish Larval Aggregation > Engraulid Larval Aggregation
+Planktonic Biota > Zooplankton > Fish Meroplankton > Fish Larval Aggregation > Sciaenid Larval Aggregation
+
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Ctenophore Aggregation > Beroe Aggregation
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Ctenophore Aggregation > Mnemiopsis Aggregation
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Ctenophore Aggregation > Pleurobrachia Aggregation
+
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Jellyfish Aggregation > Aurelia Aggregation
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Jellyfish Aggregation > Chrysaora Aggregation
+
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Salp Aggregation > Thalia Aggregation
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Salp Aggregation > Pegia Aggregation
+
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Siphonophore Aggregation > Bargmannia Aggregation
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Siphonophore Aggregation > Nanomia Aggregation
+Planktonic Biota > Zooplankton > Gelatinous Zooplankton > Siphonophore Aggregation > Physalia Aggregation 
+
+"Planktonic Biota > Zooplankton > Mixed Zooplankton > Mixed Zooplankton Aggregation > Chaetognath, Salp, and Fish Larval Aggregation"
+"Planktonic Biota > Zooplankton > Mixed Zooplankton > Mixed Zooplankton Aggregation > Ctenophore, Worm and Copepod Aggregation"
+
+Planktonic Biota > Zooplankton > Molluscan Holoplankton > Pteropod Aggregation > Carolla Aggregation
+Planktonic Biota > Zooplankton > Molluscan Holoplankton > Pteropod Aggregation > Clione Aggregation 
+
+Planktonic Biota > Zooplankton > Molluscan Meroplankton > Veliger Aggregation > Bivalve Veliger Aggregation
+Planktonic Biota > Zooplankton > Molluscan Meroplankton > Veliger Aggregation > Gastropod Veliger Aggregation
+
+Planktonic Biota > Zooplankton > Protozoan Holoplankton > Foraminiferan Aggregation > Globigerina Aggregation Layer
+
+Planktonic Biota > Zooplankton > Protozoan Holoplankton > Radiolarian Aggregation > Acantharea Aggregation
+Planktonic Biota > Zooplankton > Protozoan Holoplankton > Radiolarian Aggregation > Polycistina Aggregation
+
+Planktonic Biota > Zooplankton > Worm Holoplankton > Chaetognath Aggregation > Flaccisagitta Aggregation 
+Planktonic Biota > Zooplankton > Worm Holoplankton > Chaetognath Aggregation > Sagitta Aggregation
+
+Planktonic Biota > Zooplankton > Worm Holoplankton > Polychaete Aggregation > Syllid Aggregation
+Planktonic Biota > Zooplankton > Worm Holoplankton > Polychaete Aggregation > Tomopteris Aggregation
+
+Planktonic Biota > Zooplankton > Worm Meroplankton > Larval Worm Spawning Aggregation > Neanthes Spawning Aggregation
+Planktonic Biota > Zooplankton > Worm Meroplankton > Larval Worm Spawning Aggregation > Nereid Spawning Aggregation
+Planktonic Biota > Zooplankton > Worm Meroplankton > Larval Worm Spawning Aggregation > Palolo (Eunice) Spawning Aggregation
+
+Planktonic Biota > Zooplankton > Worm Meroplankton > Larval Worm Aggregation > Nereid Larval Aggregation
+Planktonic Biota > Zooplankton > Worm Meroplankton > Larval Worm Aggregation > Nemeretean Larval Aggregation
+Planktonic Biota > Zooplankton > Worm Meroplankton > Larval Worm Aggregation > Polychaete Larval Aggregation
+
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Rafts > Gracilaria Rafts
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Rafts > Kelp Rafts 
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Rafts > Rockweed Rafts 
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Rafts > Sargassum Rafts
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Rafts > Ulva Rafts 
+
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Particles > Gracilaria Particles
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Particles > Kelp Particles
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Particles > Rockweed Particles
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Particles > Sargassum Particles
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Macroalgae > Algal Particles > Ulva Particles
+
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Vascular Vegetation > Floating/Suspended Freshwater and Brackish Vegetation > Eichornia Mats
+Planktonic Biota > Floating/Suspended Plants and Macroalgae > Floating/Suspended Vascular Vegetation > Floating/Suspended Freshwater and Brackish Vegetation > Pistia Mats
+
+Planktonic Biota > Phytoplankton > Chlorophyte Phytoplankton > Chlorophyte Aggregation > Chlorella Aggregation
+Planktonic Biota > Phytoplankton > Chlorophyte Phytoplankton > Chlorophyte Bloom > Pyramimonas Bloom
+Planktonic Biota > Phytoplankton > Chlorophyte Phytoplankton > Chlorophyte Maximum Layer > Ostreococcus Maximum Layer
+
+Planktonic Biota > Phytoplankton > Chrysophyte Phytoplankton > Chrysophyte Aggregation > Apindella Aggregation
+Planktonic Biota > Phytoplankton > Chrysophyte Phytoplankton > Chrysophyte Bloom > Aureococcus Bloom
+Planktonic Biota > Phytoplankton > Chrysophyte Phytoplankton > Chrysophyte Maximum Layer > Dinobryon maximum Layer
+
+Planktonic Biota > Phytoplankton > Coccolithophore  Phytoplankton > Coccolithophore Aggregation > Coccolithus pelagicus Aggregation
+Planktonic Biota > Phytoplankton > Coccolithophore  Phytoplankton > Coccolithophore Bloom > Emiliania huxleyi Bloom
+Planktonic Biota > Phytoplankton > Coccolithophore  Phytoplankton > Coccolithophore Maximum Layer > Crenalithus Maximum Layer
+
+Planktonic Biota > Phytoplankton > Cryptophyte Phytoplankton > Cryptophyte Aggregation > Chrysophaeum Aggregation
+Planktonic Biota > Phytoplankton > Cryptophyte Phytoplankton > Cryptophyte Bloom > Myrionecta Bloom
+Planktonic Biota > Phytoplankton > Cryptophyte Phytoplankton > Cryptophyte Maximum Layer > Teleaulax Maximum Layer
+
+Planktonic Biota > Phytoplankton > Cyanophyte Phytoplankton > Cyanophyte Aggregation > Nodularia Aggregation
+Planktonic Biota > Phytoplankton > Cyanophyte Phytoplankton > Cyanophyte Bloom > Synechococcus Bloom
+Planktonic Biota > Phytoplankton > Cyanophyte Phytoplankton > Cyanophyte Maximum Layer > Trichodesmium Maximum layer
+
+Planktonic Biota > Phytoplankton > Diatom Phytoplankton > Diatom Aggregation > Thalassiosira Aggregation
+Planktonic Biota > Phytoplankton > Diatom Phytoplankton > Diatom Bloom > Skeletonema Bloom
+Planktonic Biota > Phytoplankton > Diatom Phytoplankton > Diatom Maximum Layer > Asterionellopsis Maximum Layer
+
+Planktonic Biota > Phytoplankton > Dinoflagellate Phytoplankton > Dinoflagellate Aggregation > Noctiluca Aggregation
+Planktonic Biota > Phytoplankton > Dinoflagellate Phytoplankton > Dinoflagellate Bloom > Karenia Bloom
+Planktonic Biota > Phytoplankton > Dinoflagellate Phytoplankton > Dinoflagellate Maximum Layer > Gymnodinium Maximum Layer
+
+Planktonic Biota > Floating/Suspended Microbes > Films and Strands
+Planktonic Biota > Floating/Suspended Microbes > Microbial Foam
+Planktonic Biota > Floating/Suspended Microbes > Microbial Aggregation
+
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stony Coral Reef > Enallopsammia Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stony Coral Reef > Goniocorella Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stony Coral Reef > Lophelia Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stony Coral Reef > Madrepora Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stony Coral Reef > Oculina Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stony Coral Reef > Solenosmilia Reef
+
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stylasterid Coral Reef > Mixed Stylaster Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Deepwater/Coldwater Stylasterid Coral Reef > Stylaster Reef
+
+
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Colonized Deepwater/Coldwater Reef > Black Coral Colonized Deepwater/Coldwater Reef 
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Colonized Deepwater/Coldwater Reef > Gold Coral Colonized Deepwater/Coldwater Reef 
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Colonized Deepwater/Coldwater Reef > Gorgonian Colonized Deepwater/Coldwater Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Colonized Deepwater/Coldwater Reef > Mix Colonized Deepwater/Coldwater Reef
+Benthic/Attached Biota > Reef Biota > Deepwater/Coldwater Coral Reef Biota > Colonized Deepwater/Coldwater Reef > Sponge Colonized Deepwater/Coldwater Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Branching Coral Reef > Branching Acropora Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Branching Coral Reef > Branching Madracis Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Branching Coral Reef > Branching Pocillopora Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Branching Coral Reef > Branching Porites Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Columnar Coral Reef > Columnar Dendrogyra Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Columnar Coral Reef > Columnar Psammocora Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Encrusting Coral Reef > Encrusting Millepora Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Encrusting Coral Reef > Encrusting Portes Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Foliose Coral Reef > Foliose Agaricia Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Foliose Coral Reef > Foliose Milipora Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Massive Coral Reef > Massive Diploria Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Massive Coral Reef > Massive Montastraea Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Massive Coral Reef > Massive Porites Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Plate Coral Reef > Plate Agaricia Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Plate Coral Reef > Plate Leptoseris Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Plate Coral Reef > Plate Montastraea Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Table Coral Reef > Table Acropora Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Turbinate Coral Reef > Turbinate Madracis Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Mixed Shallow/Mesophotic Coral Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Black Coral Colonized Shallow/Mesophotic Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Gold Coral Shallow/Mesophotic Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Calcalcareous Algae Colonized Shallow/Mesophotic Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Coral Garden Reef 
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Coralline/Crustose Algae Colonized Shallow/Mesophotic Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Gorgonian Colonized Shallow/Mesophotic Reef
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Soft Coral Colonized Shallow/Mesophotic Reef
+
+Benthic/Attached Biota > Reef Biota > Shallow/Mesophotic Coral Reef Biota > Colonized Shallow/Mesophotic Reef > Sponge Colonized Shallow/Mesophotic Reef
+
+Benthic/Attached Biota > Reef Biota > Glass Sponge Reef Biota > Glass Sponge Reef > Hexactinosida Reef
+
+Benthic/Attached Biota > Reef Biota > Mollusk Reef Biota > Gastropod Reef > Crepidula Reef
+Benthic/Attached Biota > Reef Biota > Mollusk Reef Biota > Gastropod Reef > Vermetid Reef
+Benthic/Attached Biota > Reef Biota > Mollusk Reef Biota > Gastropod Reef > Serpulorbis Reef
+
+Benthic/Attached Biota > Reef Biota > Mollusk Reef Biota > Mussel Reef > Modiolus Reef
+Benthic/Attached Biota > Reef Biota > Mollusk Reef Biota > Mussel Reef > Mytilus Reef
+
+Benthic/Attached Biota > Reef Biota > Mollusk Reef Biota > Oyster Reef > Crassostrea Reef
+Benthic/Attached Biota > Reef Biota > Mollusk Reef Biota > Oyster Reef > Ostrea Reef
+
+Benthic/Attached Biota > Reef Biota > Worm Reef Biota > Sabellariid Reef > Phragmatopoma Reef
+Benthic/Attached Biota > Reef Biota > Worm Reef Biota > Sabellariid Reef > Sabellaria Reef
+
+Benthic/Attached Biota > Reef Biota > Worm Reef Biota > Serpulid Reef > Serpula vermicularis Reef
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mineral Boring Fauna > Boring Cliona celata
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mineral Boring Fauna > Boring Penitella
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mineral Boring Fauna > Boring Lithophaga
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Wood Boring Fauna > Boring Bankia
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Wood Boring Fauna > Boring Limnoria
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Wood Boring Fauna > Boring Teredo
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Diverse Colonizers > Anemone/Mussel/Bryozoan Colonizers  (Large Macrofauna)
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Diverse Colonizers > Mollusk/Sponge/Tunicate Colonizers (Large Megafauna)
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Diverse Colonizers > Sponge/Gorgonian Colonizers
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Tube-Building Fauna > Attached Phoronids
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Tube-Building Fauna > Attached Pogonophorans
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Tube-Building Fauna > Attached Sabellaria
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Tube-Building Fauna > Attached Serpula
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Tube-Building Fauna > Attached Serpulorbis
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Vent/Seep Communities > Calyptogena Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Vent/Seep Communities > Riftia Communities
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Anemones > Attached Aiptasia
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Anemones > Attached Metridium
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Barnacles > Balanus Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Barnacles > Chthamalus Communities
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Basket Stars > Attached Astrophyton
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Basket Stars > Attached Gorgonocephalus
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Brachiopods > Attached Crania
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Brachiopods > Attached Laqueous
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Brachiopods > Attached Terebratalia
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Brittle Stars on Hard or Mixed Substrates > Amphipholis Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Brittle Stars on Hard or Mixed Substrates > Ophioderma Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Brittle Stars on Hard or Mixed Substrates > Ophiothrix Communities
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Bryozoans > Attached Bugula
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Bryozoans > Attached Celleporaria
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Bryozoans > Attached Tubulipora
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Chitons > Attached Acanthopleura
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Chitons > Attached Katharina
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Chitons > Attached Nutallina
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Corals > Attached Black Corals
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Corals > Eugorgia Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Corals > Attached Gold Corals
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Corals > Attached Gorgonians
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Corals > Isididae Communities 
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Corals > Paragorgia Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Corals > Attached Soft Corals
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Crinoids > Attached Comanthus
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Crinoids > Attached Diplocrinus
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mobile Crustaceans on Hard or Mixed Substrates > Caprellid Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mobile Crustaceans on Hard or Mixed Substrates > Crangon Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mobile Crustaceans on Hard or Mixed Substrates > Pagurus Communities
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Sessile Gastropods > Attached Acmaea
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Sessile Gastropods > Attached Crepidula
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Sessile Gastropods > Attached Haliotis
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Sessile Gastropods > Attached Vermetids
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Holothurians > Attached Parastichopus
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Holothurians > Attached Psolus
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Hydroids > Attached Sertularia
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Hydroids > Attached Tubularia
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mobile Mollusks on Hard or Mixed Substrates > Bittium Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mobile Mollusks on Hard or Mixed Substrates > Littorina Communities
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Mobile Mollusks on Hard or Mixed Substrates > Urosalpinx Communities
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Mussels > Attached Modiolus
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Mussels > Attached Mytilus
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Oysters > Attached Crassostrea
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Oysters > Attached Ostrea
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Sponges > Attached Cliona
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Sponges > Attached Halichondria
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Sponges > Attached Hyalonema
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Sponges > Attached Microciona
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Sponges > Attached Scypha
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Starfish > Attached Asterias
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Starfish > Attached Pisaster
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Tunicates > Attached Didemnum
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Tunicates > Attached Molgula
+
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Sea Urchins > Attached Strongylocentrotus droebachiensis
+Benthic/Attached Biota > Faunal Bed > Attached Fauna > Attached Sea Urchins > Attached Strongylocentrotus purpurata
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Deep-Burrowing Fauna > Balanoglossus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Deep-Burrowing Fauna > Boniella Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Deep-Burrowing Fauna > Glycera Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Deep-Burrowing Fauna > Nephtys Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Deep-Burrowing Fauna > Sipunculid Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Surface-Burrowing Fauna > Capitellid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Surface-Burrowing Fauna > Harpacticoid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Surface-Burrowing Fauna > Leptocheirus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Surface-Burrowing Fauna > Lumbrinerid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Surface-Burrowing Fauna > Nematode Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Surface-Burrowing Fauna > Oligochaete Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Surface-Burrowing Fauna > Turbellarian Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Diverse Soft Sediment Epifauna > Aphrodite Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Diverse Soft Sediment Epifauna > Bryozoan/Anemone Bed (Megafauna)
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Diverse Soft Sediment Epifauna > Holothurian/Ophiuroid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Diverse Soft Sediment Epifauna > Sand Dollar/Sea Pansy/Mobile Mollusk Bed (Large Megafauna)
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Robust Ampelisca Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Asabellides Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Asychis Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Chaetopterus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Diopatra Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Lagis Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Loimia Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Phoronid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Larger Tube-Building Fauna > Phoronopsis Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Tube-Building Fauna > Thin Ampelisca Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Tube-Building Fauna > Chone Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Tube-Building Fauna > Paraprionospio Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Tube-Building Fauna > Polydora Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Small Tube-Building Fauna > Streblospio Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunneling Megafauna > Callichirus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunneling Megafauna > Lepidophthalmus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunneling Megafauna > Lopholatilus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunneling Megafauna > Neotrypaea Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunneling Megafauna > Nephrops Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunneling Megafauna > Squilla Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunneling Megafauna > Upogebia Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Oligozoic Biota > Anoxic Oligozoic Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Oligozoic Biota > Bacterial Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Oligozoic Biota > Meiofaunal Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Burrowing Anemones > Cerianthus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Burrowing Anemones > Edwardsia Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Basket Stars > Asteronyx Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Basket Stars > Gorgonocephalus arcticus Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Brachiopod Bed > Glottidia Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Brachiopod Bed > Lingula Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Brittle Stars > Amphiura Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Brittle Stars > Ophiothrix Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Brittle Stars > Ophiura Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Bryozoans > Bugula Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Bryozoans > Celleporaria Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Bryozoans > Schizoporella Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Cephalochordates > Amphioxus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Cephalochordates > Branchiostoma Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Arctica Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Donax Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Macoma Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Mercenaria Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Mulinia Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Mya Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Nucula Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Rangia Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Spisula Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Venus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Clam Bed > Yoldia Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Crinoids > Comanthus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Crinoids > Diplocrinus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Soft Sediment Crinoids > Rhizocrinus Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Crustaceans on Soft Sediments > Caprellid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Crustaceans on Soft Sediments > Emerita Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Crustaceans on Soft Sediments > Haustoriid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Crustaceans on Soft Sediments > Mysid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Crustaceans on Soft Sediments > Pagurus Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Echiurid Bed > Echiurus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Echiurid Bed > Listriolobus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Echiurid Bed > Urechis Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Holothurian Bed > Caudina Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Holothurian Bed > Kolga Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Holothurian Bed > Leptosynapta Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Holothurian Bed > Stichopus Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Hydroid Bed > Sertularia Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Hydroid Bed > Tubularia Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Mollusks on Soft Sediments > Nassariid Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Mollusks on Soft Sediments > Olivella Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Mollusks on Soft Sediments > Polinices Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Mollusks on Soft Sediments > Scaphopod Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mobile Mollusks on Soft Sediments > Turritellid Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mussel Bed > Modiolus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Mussel Bed > Mytilus Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Oyster Bed > Crassostrea Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Oyster Bed > Ostrea Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Pennatulid Bed > Halipteris Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Pennatulid Bed > Pennatula Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Pennatulid Bed > Renilla Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Pennatulid Bed > Stylatula Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Sand Dollar Bed > Clypeaster Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Sand Dollar Bed > Dendaster elongatus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Sand Dollar Bed > Mellita Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Scallop Bed > Argopecten Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Scallop Bed > Placopecten Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Sponge Bed > Monoraphis Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Sponge Bed > Tetilla mutabilis Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Starfish Bed > Asterias Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Starfish Bed > Astropecten Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunicate Bed > Ciona Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Tunicate Bed > Didemnum Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Burrowing Urchins > Echinocardium Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Burrowing Urchins > Lovenia cordiformis Bed
+
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Sea Urchin Bed > Lytechinus anamesus Bed
+Benthic/Attached Biota > Faunal Bed > Soft Sediment Fauna > Sea Urchin Bed > Lytechinus pictus Bed
+
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Egg Masses > Busycon Egg Cases
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Egg Masses > Polychaete Mucus Cases
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Egg Masses > Polynices Egg Collars
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Egg Masses > Squid Egg Masses
+
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Fecal Mounds > Arenicola Castings
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Fecal Mounds > Balanoglossid Castings
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Fecal Mounds > Holothurian Castings
+
+"Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Pelletized, Fluid Surface Layer > Fluidized Capitellid Layer"
+"Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Pelletized, Fluid Surface Layer > Fluidized Deposit Feeder Layer"
+"Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Pelletized, Fluid Surface Layer > Fluidized Maldanid Layer"
+"Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Pelletized, Fluid Surface Layer > Fluidized Yoldia Layer"
+
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Tracks and Trails > Decapod Tracks
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Tracks and Trails > Gastropod Trails
+Benthic/Attached Biota > Faunal Bed > Inferred Fauna > Tracks and Trails > Holothurian Trails
+
+Benthic/Attached Biota > Microbial Communities > Structure Forming Microbes > Xenophyophores > Occultammina Communities
+Benthic/Attached Biota > Microbial Communities > Structure Forming Microbes > Xenophyophores > Syringammina Communities
+Benthic/Attached Biota > Microbial Communities > Structure Forming Microbes > Stromatolites > Stromatolite Mound Communities
+
+Benthic/Attached Biota > Microbial Communities > Mat/Film Forming Microbes > Microphytobenthos > Diatom Felt
+Benthic/Attached Biota > Microbial Communities > Mat/Film Forming Microbes > Microphytobenthos > Microbial Stain
+Benthic/Attached Biota > Microbial Communities > Mat/Film Forming Microbes > Bacterial Mat/Film > Beggiatoa Communities
+Benthic/Attached Biota > Microbial Communities > Mat/Film Forming Microbes > Bacterial Decay > Beggiatoa Communities on Decaying Materials
+Benthic/Attached Biota > Microbial Communities > Mat/Film Forming Microbes > Vent Microbes > Thiobacillus Communities
+Benthic/Attached Biota > Microbial Communities > Mat/Film Forming Microbes > Vent Microbes > Thermoacidophiles Communities
+
+Benthic/Attached Biota > Moss and Lichen Communities > Freshwater Tidal Lichens > Freshwater Submerged and Regularly Flooded Tidal Lichen Zone
+Benthic/Attached Biota > Moss and Lichen Communities > Freshwater Tidal Lichens > Freshwater Irregularly Flooded Tidal Lichen Zone
+
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Intertidal Lichen Zone > Cocotrema Communities
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Intertidal Lichen Zone > Lecanora Communities
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Intertidal Lichen Zone > Intertidal Verrucaria Communities
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Supratidal Lichen Zone > Anaptychia Communities
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Supratidal Lichen Zone > Caloplaca Communities
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Supratidal Lichen Zone > Ramalina Communities
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Supratidal Lichen Zone > Xanthoria Communities
+Benthic/Attached Biota > Moss and Lichen Communities > Marine Lichens > Marine Supratidal Lichen Zone > Supratidal Verrucaria Communities
+
+Benthic/Attached Biota > Moss and Lichen Communities > Freshwater Tidal Moss > Submerged Freshwater Tidal Moss > Fontinalis antipyretica Nonvascular Vegetation
+Benthic/Attached Biota > Moss and Lichen Communities > Freshwater Tidal Moss > Emergent Freshwater Tidal Moss
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Calcareous Algal Bed > Corallina Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Calcareous Algal Bed > Halimeda Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Calcareous Algal Bed > Jania communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Calcareous Algal Bed > Penicillus Communities
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Canopy-Forming Algal Bed > Alaria communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Canopy-Forming Algal Bed > Laminaria saccharina Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Canopy-Forming Algal Bed > Macrocystis Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Canopy-Forming Algal Bed > Mixed Kelp Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Canopy-Forming Algal Bed > Nereocystis Communities
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Coralline/Crustose Algal Bed > Hildenbrandia Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Coralline/Crustose Algal Bed > Lithothamnion Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Coralline/Crustose Algal Bed > Lithophyllum Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Coralline/Crustose Algal Bed > Peyssonnelia Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Coralline/Crustose Algal Bed > Porolithon Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Coralline/Crustose Algal Bed > Phymatolithon Communities
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Filamentous Algal Bed > Aghardiella Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Filamentous Algal Bed > Chaetomorpha Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Filamentous Algal Bed > Chordaria Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Filamentous Algal Bed > Cladophora sericia Communities
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Leathery/Leafy Algal Bed > Ascophyllum Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Leathery/Leafy Algal Bed > Caulerpa Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Leathery/Leafy Algal Bed > Chondrus Communities 
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Leathery/Leafy Algal Bed > Codium Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Leathery/Leafy Algal Bed > Fucus distichus Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Leathery/Leafy Algal Bed > Palmaria Communities
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Mesh/Bubble Algal Bed > Dichyosphaeria Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Mesh/Bubble Algal Bed > Valonia Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Mesh/Bubble Algal Bed > Ventricaria  Communities
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Sheet Algal Bed > Agardhiella Sheet Algae Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Sheet Algal Bed > Grinella americana Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Sheet Algal Bed > Monostroma grevillei  Communities
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Sheet Algal Bed > Ulva lactuca Communities
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Turf Algal Bed > Mixed Algal Turf Communities 
+
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Freshwater and Brackish Tidal Aquatic Vegetation > Ceratophyllum demersum - Vallisneria americana - Najas spp. Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Benthic Macroalgae > Freshwater and Brackish Tidal Aquatic Vegetation > Ruppia maritima - Stuckenia pectinata Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Ruppia maritima Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Syringodium filiformis - (Thalassia testudinum) Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Halodule wrightii Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Halophila decipiens Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Halophila engelmannii Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Halophila hawaiiana Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Halophila johnsonii Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Halophila minor Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Halophila ovalis Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Phyllospadix scouleri Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Phyllospadix serrultus Herbaceous Vegetation[Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Phyllospadix torreyi Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Thalassia testudinum - Syringodium filiformis Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Thalassia testudinum Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Vallisneria americana Estuarine Bayou Herbaceous Vegetation
+Benthic/Attached Biota > Aquatic Vegetation Bed > Aquatic Vascular Vegetation > Seagrass Bed > Zostera marina Herbaceous Vegetation
+
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Amaranthus cannabinus Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Calamagrostis nutkaensis - Argentina egedii - Juncus balticus Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Carex hyalinolepis Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Paspalum vaginatum - Spartina patens Oligohaline Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Phragmites australis Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Sagittaria subulata - Limosella australis Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Schoenoplectus americanus - (Spartina patens) - Typha spp. Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Schoenoplectus pungens Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Schoenoplectus robustus - Spartina alterniflora Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Spartina alterniflora - Lilaeopsis chinensis Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Spartina alterniflora - Polygonum punctatum - Amaranthus cannabinus Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Spartina cynosuroides Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Spartina patens - Typha spp. Chenier Plain Oligohaline Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Spartina patens - Vigna luteola Mississippi River Deltaic Plain Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Typha angustifolia - Hibiscus moscheutos Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Brackish Marsh > Typha domingensis Tidal Herbaceous Vegetation
+
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Acorus calamus Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Ambrosia trifida Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Bidens cernua Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Carex obnupta - Argentina egedii ssp. egedii Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Carex obnupta - Juncus patens Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Carex obnupta Herbaceous Vegetation
+"Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Carex stricta - Peltandra virginica - Sagittaria (lancifolia ssp. media, latifolia) Tidal Herbaceous Vegetation"
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Cladium mariscus ssp. jamaicense Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Deschampsia caespitosa - Horkelia marinensis Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Eleocharis fallax - Eleocharis rostellata - Schoenoplectus americanus - Sagittaria lancifolia Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Eleocharis rostellata - Rhynchospora colorata - Rhynchospora microcarpa Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Eleocharis rostellata - Sagittaria lancifolia Oligohaline Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Eriocaulon parkeri - Polygonum punctatum Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Hibiscus moscheutos - Polygonum punctatum - Peltandra virginica Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Impatiens capensis - Peltandra virginica - Polygonum arifolium - Schoenoplectus fluviatilis - Typha angustifolia Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Isoetes riparia Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Juncus balticus - Carex obnupta Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Juncus effusus var. brunneus Pacific Coast Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Juncus falcatus - Trifolium wormskioldii Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Juncus roemerianus - Pontederia cordata Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Justicia americana - Peltandra virginica Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Nelumbo lutea Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Nuphar advena Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Nuphar sagittifolia Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Peltandra virginica - Pontederia cordata Tidal Herbaceous Vegetation
+"Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Peltandra virginica - Schoenoplectus (pungens, tabernaemontani) Tidal Herbaceous Vegetation"
+"Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Phragmites australis - (Sagittaria platyphylla, Vigna luteola) Tidal Herbaceous Vegetation"
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Sagittaria lancifolia - Glottidium vesicarium - Solidago sempervirens - Lythrum lineare Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Sagittaria lancifolia Mississippi River Deltaic Plain Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Sagittaria latifolia - Sagittaria platyphylla - (Colocasia esculenta) Deltaic Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Schoenoplectus californicus Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Schoenoplectus pungens - (Osmunda regalis var. spectabilis) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Spartina cynosuroides - Panicum virgatum - Phyla lanceolata Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Zizania aquatica Gulf Coast Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Zizania aquatica Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Zizaniopsis miliacea - Panicum hemitomon Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Freshwater Tidal Marsh > Zizaniopsis miliacea Tidal Herbaceous Vegetation
+
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Argentina egedii - Juncus balticus Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Argentina egedii - Symphyotrichum subspicatum Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Carex lyngbyei - Argentina egedii Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Deschampsia caespitosa - Argentina egedii Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Deschampsia caespitosa - Sidalcea hendersonii Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Eleocharis rostellata - Spartina patens Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Festuca rubra - (Argentina egedii) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Juncus roemerianus Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Panicum virgatum - (Cladium mariscus ssp. jamaicense, Juncus roemerianus) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Panicum virgatum - Spartina patens Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Schoenoplectus americanus - Spartina patens Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Schoenoplectus pungens - Eleocharis parvula Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Spartina bakeri - Kosteletzkya virginica Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Spartina bakeri Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Spartina patens - Agrostis stolonifera Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Spartina patens - Distichlis spicata - (Juncus roemerianus) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > High Salt Marsh > Spartina patens - Festuca rubra - (Spartina pectinata) Herbaceous Vegetation
+
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Acrostichum aureum - (Acrostichum danaeifolium) Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Carex lyngbyei - (Distichlis spicata, Triglochin maritima) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Carex lyngbyei Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Deschampsia caespitosa - (Carex lyngbyei, Distichlis spicata) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Distichlis spicata - (Salicornia virginica) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Distichlis spicata - Ambrosia chamissonis Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Salicornia (bigelovii, virginica) Tidal Herbaceous Vegetation [Provisional]
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Salicornia virginica - Brassica nigra Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Salicornia virginica - Distichlis spicata - Jaumea carnosa Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Salicornia virginica - Distichlis spicata - Triglochin maritima - (Jaumea carnosa) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Salicornia virginica - Frankenia salina - Suaeda californica Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Salicornia virginica / Algae Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Salicornia virginica Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Sesuvium portulacastrum Tidal Herbaceous Vegetation [Placeholder]
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina alterniflora - Distichlis spicata - Spartina patens Mesohaline Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina alterniflora - Juncus roemerianus - Distichlis spicata Louisianian Zone Salt Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina alterniflora - Distichlis spicata Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina alterniflora / (Ascophyllum nodosum) Acadian/Virginian Zone Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina alterniflora Carolinian Zone Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina patens - Distichlis spicata - (Juncus gerardii) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina patens - Schoenoplectus (americanus, pungens) - (Distichlis spicata) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Spartina foliosa Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Emergent Tidal Marsh > Low and Intermediate Salt Marsh > Triglochin maritima - (Salicornia virginica) Herbaceous Vegetation
+
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Freshwater Tidal Mudflat
+
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Batis maritima - Sarcocornia pacifica Dwarf-shrubland
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Batis maritima Dwarf-shrubland
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Distichlis spicata - (Sporobolus virginicus) Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Monanthochloe littoralis Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Salicornia (virginica, bigelovii, maritima) - Spartina alterniflora Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Salicornia bigelovii - Triglochin maritima Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Sarcocornia pacifica - (Batis maritima, Distichlis spicata) Dwarf-shrubland
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Spartina spartinae - Monanthochloe littoralis - Suaeda linearis Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Spartina spartinae - Sporobolus virginicus Tidal Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Sporobolus virginicus - Distichlis spicata Herbaceous Vegetation
+Benthic/Attached Biota > Emergent Wetland > Vegetated Tidal Flats > Vegetated Salt Flat and Panne > Sporobolus virginicus - Paspalum vaginatum Herbaceous Vegetation
+
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Brackish Tidal Scrub-Shrub > Lonicera involucrata / Argentina egedii Tidal Shrubland [Provisional]
+
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Freshwater Tidal Scrub-Shrub > Alnus (incana ssp. rugosa, serrulata) - Cornus amomum Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Freshwater Tidal Scrub-Shrub > Alnus maritima / Acorus calamus Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Freshwater Tidal Scrub-Shrub > Alnus serrulata - Salix nigra / Pilea (fontana, pumila) Tidal Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Freshwater Tidal Scrub-Shrub > Alnus serrulata / (Zizania aquatica, Zizaniopsis miliacea) Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Freshwater Tidal Scrub-Shrub > Amorpha fruticosa Tidal Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Freshwater Tidal Scrub-Shrub > Morella cerifera - Rosa palustris / Thelypteris palustris var. pubescens Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Freshwater Tidal Scrub-Shrub > Morella cerifera - Toxicodendron radicans / Spartina bakeri Shrubland
+
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Borrichia arborescens Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Borrichia frutescens / (Spartina patens, Juncus roemerianus) Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Borrichia frutescens / Spartina spartinae Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Baccharis halimifolia - Iva frutescens - Morella cerifera - (Ilex vomitoria) Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Baccharis halimifolia - Iva frutescens / Panicum virgatum Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Iva frutescens ssp. frutescens - Baccharis halimifolia / Spartina spartinae Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Iva frutescens / Spartina patens Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Avicennia germinans / Spartina alterniflora Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Morella cerifera - Baccharis halimifolia / Eleocharis fallax Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Saltwater Tidal Scrub-Shrub > Iva frutescens / Spartina cynosuroides Tidal Shrubland
+
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Tidal Mangrove Shrubland > Rhizophora mangle Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Tidal Mangrove Shrubland > Rhizophora mangle - Avicennia germinans - Laguncularia racemosa / Batis maritima Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Tidal Mangrove Shrubland > Rhizophora mangle - Avicennia germinans - Laguncularia racemosa Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Tidal Mangrove Shrubland > Rhizophora mangle - Avicennia germinans Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Tidal Mangrove Shrubland > Avicennia germinans / Batis maritima Shrubland
+Benthic/Attached Biota > Scrub-Shrub Wetland > Tidal Scrub-Shrub Wetland > Tidal Mangrove Shrubland > Avicennia germinans / Sarcocornia pacifica Shrubland
+
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Brackish Tidal Forest/Woodland > Picea sitchensis / Lonicera involucrata - Malus fusca Tidal Woodland [Provisional]
+
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Juniperus virginiana var. silicicola / Morella cerifera / Kosteletzkya virginica - Bacopa monnieri Woodland
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Nyssa aquatica Tidal Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Nyssa biflora - Nyssa aquatica - Taxodium distichum / Saururus cernuus Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Pinus taeda - Nyssa biflora - Taxodium distichum / Morella cerifera / Osmunda regalis var. spectabilis Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Nyssa biflora - (Taxodium distichum, Nyssa aquatica) / Morella cerifera - Rosa palustris Tidal Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium distichum / Carex hyalinolepis Woodland
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium distichum / Typha angustifolia Woodland
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium distichum / Zizania aquatica - Carex canescens ssp. disjuncta Woodland
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium distichum Tidal Woodland [Provisional]
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium distichum / Pontederia cordata - Peltandra virginica Tidal Woodland
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium ascendens - Cliftonia monophylla - Pinus elliottii var. elliottii - Chamaecyparis thyoides / Hypericum nitidum - Cladium mariscus ssp.
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium distichum - Nyssa aquatica - Persea palustris Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Taxodium distichum - Nyssa biflora - Magnolia virginiana - Fraxinus profunda Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Nyssa biflora - Magnolia virginiana / Cyrilla racemiflora Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Nyssa biflora - Magnolia virginiana - Sabal palmetto - Juniperus virginiana var. silicicola Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Acer rubrum - Fraxinus pennsylvanica / Polygonum spp. Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Acer rubrum / Sambucus canadensis / Ampelopsis arborea - Sicyos angulatus Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Fraxinus profunda - Nyssa biflora - (Fraxinus pennsylvanica) / Ilex verticillata / Polygonum arifolium Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Freshwater Tidal Forest/Woodland > Fraxinus pennsylvanica - (Ulmus americana) - Pinus taeda / Morella cerifera - Juniperus virginiana var. silicicola Tidal Forest
+
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Saltwater Tidal Forest/Woodland > Tamarisk Tidal Forest [Provisional]
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Saltwater Tidal Forest/Woodland > Melaleuca Tidal Forest [Provisional]
+
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Avicennia germinans Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Conocarpus erectus Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Rhizophora mangle Basin Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Rhizophora mangle Fringe Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Rhizophora mangle Medium Island Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Rhizophora mangle Overwash Island Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Rhizophora mangle Tall Fringing Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Rhizophora mangle - (Avicennia germinans, Laguncularia racemosa) Riverine Forest
+Benthic/Attached Biota > Forested Wetland > Tidal Forest/Woodland > Tidal Mangrove Forest > Rhizophora mangle - Dalbergia ecastaphyllum - Pavonia paludicola Forest
+
+
+
+
+
+
+
+***********************************
+_SUBSTRATE COMPONENTS_
+***********************************
+
+Geologic Substrate > Rock Substrate > Bedrock
+Geologic Substrate > Rock Substrate > Megaclast
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravel > Boulder
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravel > Cobble
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravel > Pebble
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravel > Granule
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravel Mixes > Sandy Gravel
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravel Mixes > Muddy Sandy Gravel
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravel Mixes > Muddy Gravel
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravelly > Gravelly Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravelly > Gravelly Muddy Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Coarse Unconsolidated Substrate > Gravelly > Gravelly Mud
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Slightly Gravelly > Slightly Gravelly Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Slightly Gravelly > Slightly Gravelly Muddy Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Slightly Gravelly > Slightly Gravelly Sandy Mud
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Slightly Gravelly > Slightly Gravelly Mud
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sand > Very Coarse Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sand > Coarse Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sand > Medium Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sand > Fine Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sand > Very Fine Sand
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Muddy Sand > Silty Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Muddy Sand > Silty-Clayey Sand
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Muddy Sand > Clayey Sand
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sandy Mud > Sandy Silt
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sandy Mud > Sandy Silt-Clay
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Sandy Mud > Sandy Clay
+
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Mud > Silt
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Mud > Silt-Clay
+Geologic Substrate > Unconsolidated Mineral Substrate > Fine Unconsolidated Substrate > Mud > Clay
+
+Biogenic Substrate > Algal Substrate > Algal Sand > Halimeda Sand
+
+Biogenic Substrate > Algal Substrate > Rhodolith Substrate > Rhodolith Rubble
+Biogenic Substrate > Algal Substrate > Rhodolith Substrate > Rhodolith Hash
+Biogenic Substrate > Algal Substrate > Rhodolith Substrate > Rhodolith Sand
+
+Biogenic Substrate > Coral Substrate > Coral Reef Substrate
+
+Biogenic Substrate > Coral Substrate > Coral Rubble
+Biogenic Substrate > Coral Substrate > Coral Hash
+Biogenic Substrate > Coral Substrate > Coral Sand
+
+Biogenic Substrate > Organic Substrate > Organic Debris > Peat Debris
+Biogenic Substrate > Organic Substrate > Organic Debris > Woody Debris > Fine Woody Debris
+Biogenic Substrate > Organic Substrate > Organic Debris > Woody Debris > Coarse Woody Debris
+Biogenic Substrate > Organic Substrate > Organic Debris > Woody Debris > Very Coarse Woody Debris
+
+Biogenic Substrate > Organic Substrate > Organic Detritus
+
+Biogenic Substrate > Organic Substrate > Organic Mud
+
+Biogenic Substrate > Ooze Substrate > Carbonate Ooze > Coccolithophore Ooze
+Biogenic Substrate > Ooze Substrate > Carbonate Ooze > Foraminiferan Ooze > Globigerina Ooze
+Biogenic Substrate > Ooze Substrate > Carbonate Ooze > Pteropod Ooze
+
+Biogenic Substrate > Ooze Substrate > Siliceous Ooze > Diatomaceous Ooze
+Biogenic Substrate > Ooze Substrate > Siliceous Ooze > Radiolarian Ooze
+
+Biogenic Substrate > Shell Substrate > Shell Reef Substrate > Clam Reef Substrate > Coquina Reef Substrate
+Biogenic Substrate > Shell Substrate > Shell Reef Substrate > Crepidula Reef Substrate
+Biogenic Substrate > Shell Substrate > Shell Reef Substrate > Mussel Reef Substrate
+Biogenic Substrate > Shell Substrate > Shell Reef Substrate > Oyster Reef Substrate
+
+Biogenic Substrate > Shell Substrate > Shell Rubble > Clam Rubble > Coquina Rubble
+Biogenic Substrate > Shell Substrate > Shell Rubble > Crepidula Rubble
+Biogenic Substrate > Shell Substrate > Shell Rubble > Mussel Rubble
+Biogenic Substrate > Shell Substrate > Shell Rubble > Oyster Rubble
+
+Biogenic Substrate > Shell Substrate > Shell Hash > Clam Hash > Coquina Hash
+Biogenic Substrate > Shell Substrate > Shell Hash > Crepidula Hash
+Biogenic Substrate > Shell Substrate > Shell Hash > Mussel Hash
+Biogenic Substrate > Shell Substrate > Shell Hash > Oyster Hash
+
+Biogenic Substrate > Shell Substrate > Shell Sand > Coquina Sand
+
+Biogenic Substrate > Worm Substrate > Sabellariid Substrate > Sabellariid Reef Substrate
+Biogenic Substrate > Worm Substrate > Sabellariid Substrate > Sabellariid Rubble
+Biogenic Substrate > Worm Substrate > Sabellariid Substrate > Sabellariid Hash
+
+Biogenic Substrate > Worm Substrate > Serpulid Substrate > Serpulid Reef Substrate
+Biogenic Substrate > Worm Substrate > Serpulid Substrate > Serpulid Rubble
+Biogenic Substrate > Worm Substrate > Serpulid Substrate > Serpulid Hash
+
+Anthropogenic Substrate > Anthropogenic Rock > Anthropogenic Rock Reef Substrate
+Anthropogenic Substrate > Anthropogenic Rock > Anthropogenic Rock Rubble
+Anthropogenic Substrate > Anthropogenic Rock > Anthropogenic Rock Hash
+Anthropogenic Substrate > Anthropogenic Rock > Anthropogenic Rock Sand
+Anthropogenic Substrate > Anthropogenic Rock > Anthropogenic Rock Mud
+
+Anthropogenic Substrate > Anthropogenic Wood > Anthropogenic Wood Reef Substrate
+Anthropogenic Substrate > Anthropogenic Wood > Anthropogenic Wood Rubble
+Anthropogenic Substrate > Anthropogenic Wood > Anthropogenic Wood Hash
+
+Anthropogenic Substrate > Construction Materials > Construction Reef
+Anthropogenic Substrate > Construction Materials > Construction Rubble
+Anthropogenic Substrate > Construction Materials > Construction Hash
+
+Anthropogenic Substrate > Metal > Metal Reef Substrate
+Anthropogenic Substrate > Metal > Metal Rubble
+Anthropogenic Substrate > Metal > Metal Hash
+
+Anthropogenic Substrate > Trash > Trash Rubble
+Anthropogenic Substrate > Trash > Trash Bits
