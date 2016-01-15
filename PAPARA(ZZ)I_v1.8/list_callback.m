@@ -109,7 +109,7 @@ switch clicktype
                 % create annotation only if it does not exist already
                 if isempty(id)
                     fcn_annotate(fid,[],[x,y],item,annotype);
-                    
+                    fcn_update_cbfun(h_sel,item);
                     set(infotxt,'String',['Current selection: ' item]);
                     set(infotxt,'TooltipString',get(infotxt,'String'));
                 end

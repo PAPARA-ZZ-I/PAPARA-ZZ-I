@@ -38,7 +38,6 @@ switch annotype
             'ButtonDownFcn',cbfun);
         
     case 'GeneratedPoint' % not needed at the moment
-        
 %         if iscell(colorcode)
 %             ms = 6; % default marker size
 %             for k=1:numel(colorcode)

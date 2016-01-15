@@ -92,8 +92,6 @@ switch mousestate
             set(infotxt,'TooltipString',get(infotxt,'String'));
             
             % delete size measurement
-            x = get(h_gcbo,'XData');
-            y = get(h_gcbo,'YData');
             delete(findobj(gca,'UserData',userdataStr));
             
         end

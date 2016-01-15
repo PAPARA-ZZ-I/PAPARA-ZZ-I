@@ -35,7 +35,7 @@ CStr = [];
 % read data from file
 fid = fopen(txtfile,'r');
 
-if fid ~= 1
+if fid ~= -1
     Data = textscan(fid,'%s','delimiter','\n');
     CStr = Data{1};
     fclose(fid);
