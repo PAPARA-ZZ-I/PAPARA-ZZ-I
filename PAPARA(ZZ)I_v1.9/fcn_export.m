@@ -294,7 +294,8 @@ for k1=kmax:-1:1 % go backward!!!
                         featszCnt(1,k2) = pos;
                         
                         % write/append size value to size distribution file
-                        sizefile1 = [sizefile1_root kw '.txt'];
+                        kwstr = fcn_kw2str(kw);
+                        sizefile1 = [sizefile1_root kwstr '.txt'];
                         if exist(sizefile1,'file')~=2
                             fidoutSize1 = fopen(sizefile1,'w');
                             fprintf(fidoutSize1,'%s\t%s\t%s\t%s\t%s\r\n',...
@@ -338,7 +339,8 @@ for k1=kmax:-1:1 % go backward!!!
                             featszCntS(1,k2) = pos;
                             
                             % write/append size value to size distribution file
-                            sizefile2 = [sizefile2_root kw '.txt'];
+                            kwstr = fcn_kw2str(kw);
+                            sizefile2 = [sizefile2_root kwstr '.txt'];
                             if exist(sizefile2,'file')~=2
                                 fidoutSize2 = fopen(sizefile2,'w');
                                 fprintf(fidoutSize1,'%s\t%s\t%s\t%s\t%s\r\n',...

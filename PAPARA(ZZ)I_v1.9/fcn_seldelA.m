@@ -77,7 +77,8 @@ switch mousestate
             set(infotxt,'String','');
             set(infotxt,'TooltipString',get(infotxt,'String'));
             delete(h_gcbo); % deletes the link from the figure
-            delete(findobj(gca,'UserData',[x y]));
+            userdataStr = [str2double(sprintf('%f',x)) str2double(sprintf('%f',y))];
+            delete(findobj(gca,'UserData',userdataStr));
             
         end
         

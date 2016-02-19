@@ -206,6 +206,17 @@ inpath = [inpath sep];
 
 % inpath = 'E:\Documents\MATLAB\ImageAnnotator\images\';
 
+imagelist = [];
+strlist = {'jpg','JPG','jpeg','JPEG','tif','TIF','tiff','TIFF','png','PNG'};
+for str = strlist
+    imagelist = vertcat(imagelist,dir([inpath '*.' str{1}]));
+end
+imagelist = fcn_field2array(imagelist,'name','cell'); % convert to cell array
+imagelist = unique(imagelist); % remove duplicates
+nmax = numel(imagelist); % max number of images
+
+if nmax==0, clearvars; return; end
+
 % creates annotation folder
 tmp = [inpath userid '_annotations' sep];
 if isdir(tmp)==0, mkdir(tmp); end
@@ -217,16 +228,6 @@ if isdir(tmp)==0, mkdir(tmp); end
 % creates scale folder
 tmp = [inpath userid '_scale' sep];
 if isdir(tmp)==0, mkdir(tmp); end
-
-
-imagelist = [];
-strlist = {'jpg','JPG','jpeg','JPEG','tif','TIF','tiff','TIFF','png','PNG'};
-for str = strlist
-    imagelist = vertcat(imagelist,dir([inpath '*.' str{1}]));
-end
-imagelist = fcn_field2array(imagelist,'name','cell'); % convert to cell array
-imagelist = unique(imagelist); % remove duplicates
-nmax = numel(imagelist); % max number of images
 
 
 %% defines callback functions
