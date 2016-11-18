@@ -6,4 +6,4 @@ All images have been annotated with the following username: 'test-user'. To see 
 
 To create new annotations, restart PAPARA(ZZ)I and choose a different username. Annotations made with a different username does not alter the annotations made by the other users.
 
-To visualise the exported results, open the summary files (in the 'summary' subfolder) with Excel or any similar program (summary files are best displayed in a spreadsheet program).
+To visualise the exported results, open the summary files (in the 'data-export' subfolder) with Excel or any similar program (summary files are best displayed in a spreadsheet program).
