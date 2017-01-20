@@ -2,7 +2,7 @@ PAPARA(ZZ)I: Program for Annotation of Photographs And Rapid Analysis (of Zillio
 
 
 COPYRIGHT AND LICENSE:
-Copyright 2015, 2016 Yann Marcon and Autun Purser
+Copyright 2015-2017 Yann Marcon and Autun Purser
 
 PAPARA(ZZ)I is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
