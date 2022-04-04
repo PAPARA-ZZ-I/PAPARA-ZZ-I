@@ -1,5 +1,5 @@
 # PAPARA(ZZ)I
-Copyright 2015-2017 Yann Marcon and Autun Purser
+Copyright 2015-2022 Yann Marcon and Autun Purser
 
 PAPARA(ZZ)I: Program for Annotation of Photographs And Rapid Analysis (of Zillions and Zillions) of Images.
 
@@ -14,7 +14,7 @@ There are two ways to run the program:
 
 2. without MATLAB, by using the PAPARA(ZZ)I installer (available for 64-bit Windows, Mac OS X and Linux systems) and following the instructions.
 
-Although PAPARA(ZZ)I was developped under MATLAB 2015b, it also works with older versions (e.g. MATLAB 2010a).
+Although PAPARA(ZZ)I was developped under MATLAB 2015b, it may also work with older versions (e.g. MATLAB 2010a).
 
 
 LICENSE:

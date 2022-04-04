@@ -10,5 +10,5 @@ IMPORTANT:
 
 Due to the large size of the files, the MCR installers (i.e. the ones with MATLAB Runtime included) are not stored on GitHub. However, they can be downloaded from here:
 
-https://drive.google.com/folderview?id=0Bx4WDwQbEgZBTlR3ZEhtMHBYRnc&usp=sharing
+https://drive.google.com/drive/folders/0Bx4WDwQbEgZBTlR3ZEhtMHBYRnc?resourcekey=0-Lznnr3ID1zekI1sHbfdpWg&usp=sharing
 
