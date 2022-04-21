@@ -34,9 +34,9 @@ set(findall(gcf,'Tag','Toolbar_Rectangle'),'State','on');
 fcn_freeze_fig('off',gcf,'Button-containing panel');
 
 % Prompt for selecting rectangle
-if exist('getrect.m','file')==2 || exist('getrect','builtin')==5
+try
     rect = getrect(h);
-else
+catch
     im = findobj(get(h,'Children'),'type','Image');
     im = get(im,'CData');
 %     im = im.CData;

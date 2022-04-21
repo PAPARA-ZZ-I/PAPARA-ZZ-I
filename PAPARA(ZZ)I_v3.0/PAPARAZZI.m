@@ -456,9 +456,13 @@ fig_main = figure('MenuBar','figure','NumberTitle','off','Name',figname,...
     'fclose(fid); end;'],'Visible','off');
 
 % Show PAPARA(ZZ)I icon in main figure
+iconfile = 'paparazzi_icon_16.png';
+if isdeployed
+    iconfile = [ ctfroot sep 'PAPARAZZI' sep iconfile ];
+end
 warning('off','MATLAB:HandleGraphics:ObsoletedProperty:JavaFrame');
 jframe=get(fig_main,'javaframe');
-jIcon=javax.swing.ImageIcon('paparazzi_icon_16.png');
+jIcon=javax.swing.ImageIcon(iconfile);
 jframe.setFigureIcon(jIcon);
 
 % Hide unwanted tools from menubar and toolbar
