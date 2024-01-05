@@ -30,6 +30,6 @@ You should have received a copy of the GNU General Public License along with PAP
 
 CONTACT:
 -------
-Yann Marcon: yann.marcon@awi.de
+Yann Marcon: ymarcon@marum.de
 
 Autun Purser: autun.purser@awi.de
