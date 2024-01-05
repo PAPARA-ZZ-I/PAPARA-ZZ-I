@@ -1,5 +1,5 @@
 # PAPARA(ZZ)I
-Copyright 2015-2022 Yann Marcon and Autun Purser
+Copyright 2015-2024 Yann Marcon and Autun Purser
 
 PAPARA(ZZ)I: Program for Annotation of Photographs And Rapid Analysis (of Zillions and Zillions) of Images.
 
